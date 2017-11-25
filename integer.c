@@ -1,3 +1,9 @@
+/** 
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 Integer File
+ * @description: File to handle the Integer types
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>

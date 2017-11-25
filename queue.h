@@ -1,3 +1,8 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 -- Project Zero -- Queue Header File
+ * @description: Header file for a queue.
+ */
 #ifndef __QUEUE_INCLUDED__
 #define __QUEUE_INCLUDED__
 

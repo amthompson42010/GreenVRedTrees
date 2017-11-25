@@ -1,3 +1,9 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 -- Project 0 -- Queue File
+ * @description: Public Interface for a queue along with functions that can be used to operate on a queue.
+ */
+
 #include <stdio.h>
 #include <assert.h>
 #include <stdlib.h>

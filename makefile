@@ -8,8 +8,7 @@ trees: $(OBJS)
 	gcc $(OPTS) $(OBJS) -o trees -lm
 
 test: trees
-	#./bstTest
-	./trees
+	./trees -v
 
 trees.o: trees.c
 	gcc $(OPTS) trees.c -c -lm
@@ -42,7 +41,7 @@ real.o: real.c real.h
 	gcc $(OPTS) -c real.c -lm
 
 clean:
-	rm -rf *.o $(TESTEXES) ./a.out trees bstTest
+	rm -rf *.o $(TESTEXES) ./a.out trees bstTest testF
 
 #******************************************************************************#
 # *** TEST OBJECTS *** #

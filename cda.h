@@ -1,3 +1,9 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 -- Project Zero -- Circular Dynamic Array Header
+ * @description: Header file for a circular dynamic array.
+ */
+
 #ifndef __CDA_INCLUDED__
 #define __CDA_INCLUDED__
 

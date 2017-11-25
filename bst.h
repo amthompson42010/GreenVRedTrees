@@ -1,3 +1,8 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: Binary Search Tree Header
+ * @description: Header File for a Binary Search Tree
+ */
 #ifndef __BST_INCLUDED__
 #define __BST_INCLUDED__
 

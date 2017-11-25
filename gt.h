@@ -1,3 +1,9 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 Green Tree Header File
+ * @description: Header file for Green Trees
+ */
+
 #ifndef __GT_INCLUDED__
 #define __GT_INCLUDED__
 

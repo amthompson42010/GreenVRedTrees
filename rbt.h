@@ -1,3 +1,9 @@
+/** 
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 Red Black Tree Header
+ * @description: Red Black Tree Header file
+ */
+
 #ifndef __RBT_INCLUDED__
 #define __RBT_INCLUDED__
 

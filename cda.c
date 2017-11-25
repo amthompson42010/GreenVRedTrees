@@ -1,3 +1,9 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 -- Project 0 -- Circular Dynamic Array
+ * @description: Public Interface for a Circular Dynamic Array along with funcitons that can be performed on the data structure.
+ */
+
 #include <stdio.h>
 #include <assert.h>
 #include <string.h>
@@ -149,7 +155,7 @@ void *removeCDAfront(CDA *items) {
         else { origIndex += 1; }
       }
 
-      items->size /= 2;
+      if (items->size != 1) items->size /= 2;
       items->array = realloc( items->array, items->size * sizeof(void*) );
       items->array = tmp;
       items->frontIndex = 0;

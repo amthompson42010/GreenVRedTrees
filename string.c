@@ -1,3 +1,9 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 String Handler
+ * @description: File to handle the String data type
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>

@@ -1,3 +1,9 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 -- Fall 2017 Integer Header File
+ * @description: Header file for Integer types
+ */
+
 #ifndef __INTEGER_INCLUDED__
 #define __INTEGER_INCLUDED__
 

@@ -1,3 +1,9 @@
+/** 
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 Fall 2017 Assignment 1
+ * @description: Header File for real.c
+ */
+
 #ifndef __REAL_INCLUDED__
 #define __REAL_INCLUDED__
 

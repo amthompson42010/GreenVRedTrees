@@ -1,3 +1,8 @@
+/**
+ * @author: Alexander Mark Thompson
+ * @title: CS 201 Fall 2017 Assignment 1
+ * @description: File to handle the real datatype.
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
